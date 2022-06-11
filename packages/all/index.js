@@ -1,5 +1,5 @@
 module.exports = {
-    extends: [
-        '@jdow/eslint-config-react',
-    ],
+  extends: [
+    '@jdow/eslint-config-react',
+  ],
 }

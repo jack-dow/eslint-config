@@ -3,8 +3,8 @@
   "version": "0.0.12",
   "description": "",
   "author": "Jack Dow",
-  "homepage": "https://github.com/jdow/eslint-config",
   "license": "MIT",
+  "homepage": "https://github.com/jdow/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -19,10 +19,10 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-jdow": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jdow": "workspace:*",
     "eslint-plugin-jsonc": "^2.2.1",
     "eslint-plugin-markdown": "^2.2.1",
     "eslint-plugin-n": "^15.2.0",

@@ -1,29 +1,29 @@
 {
-    "name": "@jdow/eslint-config-ts",
-    "version": "0.0.12",
-    "description": "",
-    "author": "Jack Dow",
-    "license": "MIT",
-    "homepage": "https://github.com/jdow/eslint-config",
-    "keywords": [
-        "eslint-config"
-    ],
-    "main": "index.js",
-    "files": [
-        "index.js"
-    ],
-    "peerDependencies": {
-        "eslint": ">=7.4.0",
-        "typescript": ">=3.9"
-    },
-    "dependencies": {
-        "@jdow/eslint-config-basic": "workspace:*",
-        "@typescript-eslint/eslint-plugin": "^5.26.0",
-        "@typescript-eslint/parser": "^5.26.0"
-    },
-    "devDependencies": {
-        "@types/node": "^17.0.42",
-        "eslint": "^8.16.0",
-        "typescript": "^4.7.2"
-    }
+  "name": "@jdow/eslint-config-ts",
+  "version": "0.0.12",
+  "description": "",
+  "author": "Jack Dow",
+  "license": "MIT",
+  "homepage": "https://github.com/jdow/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@jdow/eslint-config-basic": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "eslint": "^8.16.0",
+    "typescript": "^4.7.2"
+  }
 }

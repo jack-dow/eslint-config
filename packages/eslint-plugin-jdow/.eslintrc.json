@@ -1,6 +1,6 @@
 {
-    "extends": "@jdow",
-    "plugins": [
-        "jdow"
-    ]
+  "extends": "@jdow",
+  "plugins": [
+    "jdow"
+  ]
 }
