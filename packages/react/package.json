@@ -1,8 +1,9 @@
 {
     "name": "@jdow/eslint-config-react",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "",
     "author": "Jack Dow",
+    "homepage": "https://github.com/jdow/eslint-config",
     "license": "MIT",
     "keywords": [
         "eslint-config"
