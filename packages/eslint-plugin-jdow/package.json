@@ -1,0 +1,23 @@
+{
+    "name": "eslint-plugin-jdow",
+    "version": "0.0.1",
+    "license": "MIT",
+    "homepage": "https://github.com/antfu/eslint-config",
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "types": "./dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "rimraf dist && tsup",
+        "test": "vitest"
+    },
+    "dependencies": {
+        "@typescript-eslint/utils": "^5.26.0"
+    },
+    "devDependencies": {
+        "tsup": "^6.1.2",
+        "vitest": "^0.12.9"
+    }
+}
