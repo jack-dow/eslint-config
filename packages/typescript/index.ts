@@ -1,4 +1,4 @@
-const basic = require('@jdow/eslint-config-basic')
+import basic from '@jdow/eslint-config-basic'
 
 module.exports = {
   extends: [
