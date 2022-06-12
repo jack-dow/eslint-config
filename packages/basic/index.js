@@ -183,7 +183,7 @@ module.exports = {
     'import/no-absolute-path': 'off',
 
     // Common
-    'semi': ['error', 'never'],
+    'semi': ['error'],
     'curly': ['error', 'multi-or-nest', 'consistent'],
     'quotes': ['error', 'single'],
     'quote-props': ['error', 'consistent-as-needed'],

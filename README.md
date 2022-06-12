@@ -5,7 +5,7 @@
 
 Forked from [antfu/eslint-config](https://github.com/antfu/eslint-config)
 
-- Single quotes, no semi
+- Single quotes
 - Auto fix for formatting (aimed to be used standalone without Prettier)
 - TypeScript, Vue, React out-of-box
 - Lint also for json, yaml, markdown
