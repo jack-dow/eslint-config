@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-jdow",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "license": "MIT",
   "homepage": "https://github.com/jdow/eslint-config",
   "main": "./dist/index.cjs",
