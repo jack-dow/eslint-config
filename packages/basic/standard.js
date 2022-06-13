@@ -247,4 +247,4 @@ module.exports = {
 
     'promise/param-names': 'error',
   },
-}
+};

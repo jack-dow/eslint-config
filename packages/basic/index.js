@@ -332,4 +332,4 @@ module.exports = {
     'jdow/import-dedupe': 'error',
 
   },
-}
+};
