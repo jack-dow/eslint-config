@@ -1,6 +1,6 @@
 {
   "name": "@jdow/eslint-config",
-  "version": "0.0.18",
+  "version": "0.1.0",
   "description": "Jack's ESLint config",
   "author": "Jack Dow",
   "license": "MIT",

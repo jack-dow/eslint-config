@@ -1,6 +1,6 @@
 {
   "name": "@jdow/eslint-config-monorepo",
-  "version": "0.0.18",
+  "version": "0.1.0",
   "private": true,
   "author": "Jack Dow",
   "license": "MIT",
